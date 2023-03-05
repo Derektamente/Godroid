@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="org.derektamente.godroid">
+
+    <application>
+        <meta-data
+            android:name="org.godotengine.plugin.v1.Godroid"
+            android:value="org.derektamente.godroid.Godroid" />
+    </application>
+</manifest>
+
